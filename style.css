@@ -1241,3 +1241,17 @@ img {
         grid-template-columns: repeat(2, 1fr);
     }
 }
+
+
+.bandiera {
+    display: flex;
+    align-items: center;
+}
+
+.immagine-bandiera, .testo-bandiera {
+    width: 70%;
+}
+
+.immagine-bandiera {
+    padding-right: 100px;
+}
