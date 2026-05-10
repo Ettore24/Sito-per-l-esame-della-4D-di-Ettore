@@ -1243,15 +1243,15 @@ img {
 }
 
 
-.bandiera {
+.disegni {
     display: flex;
     align-items: center;
 }
 
-.immagine-bandiera, .testo-bandiera {
+.immagine-disegni, .testo-disegni {
     width: 70%;
 }
 
-.immagine-bandiera {
+.immagine-disegni {
     padding-right: 100px;
 }
