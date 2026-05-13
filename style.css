@@ -1255,3 +1255,17 @@ img {
 .immagine-disegni {
     padding-right: 100px;
 }
+
+.sez-video {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.strada-flex {
+    display: flex;
+}
+
+.strada-img {
+    width: 50%;
+}
